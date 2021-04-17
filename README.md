@@ -1,5 +1,5 @@
-<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h1 align="center">I'm Jay Gandhi</h1>
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h2 align="center">I'm Jay Gandhi</h2>
 <h4 align="center">Web & Software Developer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaygandhi129&label=Profile%20views&color=52bc56&style=plastic" alt="jaygandhi129" /> </p>
