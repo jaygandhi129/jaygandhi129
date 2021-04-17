@@ -25,4 +25,4 @@
 
 
 
-<p>&nbsp;<img align="center" style="margin: 20px;" src="https://github-readme-stats.vercel.app/api?username=jaygandhi129&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="jaygandhi129" /></p>
+<p>&nbsp;<img align="center" style="margin: 100px;" src="https://github-readme-stats.vercel.app/api?username=jaygandhi129&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="jaygandhi129" /></p>
