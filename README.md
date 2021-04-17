@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaygandhi129&label=Profile%20views&color=0e75b6&style=flat" alt="jaygandhi129" /> </p>
 
-- 🌱 I’m currently learning **Computer Science and Engineering.**
+- 🌱 I’m currently studying **Computer Science and Engineering.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaygandhi129?tab=repositories](https://github.com/jaygandhi129?tab=repositories)
 
