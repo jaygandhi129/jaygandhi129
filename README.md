@@ -1,5 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jay Gandhi</h1>
-<h3 align="center">Web & Software Developer</h3>
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">I'm Jay Gandhi</h1>
+<h4 align="center">Web & Software Developer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaygandhi129&label=Profile%20views&color=52bc56&style=plastic" alt="jaygandhi129" /> </p>
 
@@ -13,11 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jaygandhi129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jaygandhi129" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12346325" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12346325" height="30" width="40" /></a>
-<a href="https://codesandbox.com/jaygandhi129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="jaygandhi129" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jaygandhi129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="jaygandhi129" height="30" width="40" /></a>
-<a href="https://discord.gg/9028" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="9028" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jaygandhi129" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-512.png" alt="jaygandhi129" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/12346325" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-circle-2-1/72/stackoverflow-256.png" alt="12346325" height="40" width="40" /></a>
+<a href="https://codesandbox.com/jaygandhi129" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codesandbox-256.png" alt="jaygandhi129" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/jaygandhi129" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-256.png" alt="jaygandhi129" height="40" width="40" /></a>
+<a href="https://discord.gg/9028" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-256.png" alt="9028" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
