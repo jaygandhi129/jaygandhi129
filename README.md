@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **contact@jaygandhi.tech**
 
-- 📄 Know about my experiences [www.jaygandhi.tech]
+- 📄 Know about my experiences www.jaygandhi.tech
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
