@@ -1,13 +1,14 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h2 align="center">I'm Jay Gandhi</h2>
+<h3>Research Engineer at TCS Research</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaygandhi129&label=Profile%20views&color=52bc56&style=plastic" alt="jaygandhi129" /> </p>
 
-- 🌱 I’m currently studying **Computer Science and Engineering.**
+- 🌱 I have completed my B.Tech in **Computer Science and Engineering.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaygandhi129?tab=repositories](https://github.com/jaygandhi129?tab=repositories)
 
-- 📫 How to reach me **contact@jaygandhi.tech**
+- 📫 How to reach me **jaygandhi129+contact@gmail.com**
 
 - 📄 Know about my experiences www.jaygandhi.tech
 
