@@ -1,28 +1,35 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h2 align="center">I'm Jay Gandhi</h2>
-<h3>Research Engineer at TCS Research</h3>
+<h3 align="center">🚀 Research Engineer at TCS Research | 📍Pune, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaygandhi129&label=Profile%20views&color=52bc56&style=plastic" alt="jaygandhi129" /> </p>
-
-- 🌱 I have completed my B.Tech in **Computer Science and Engineering.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jaygandhi129?tab=repositories](https://github.com/jaygandhi129?tab=repositories)
-
-- 📫 How to reach me **jaygandhi129+contact@gmail.com**
-
-- 📄 Know about my experiences www.jaygandhi.tech
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jaygandhi129" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-512.png" alt="jaygandhi129" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/12346325" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-circle-2-1/72/stackoverflow-256.png" alt="12346325" height="40" width="40" /></a>
-<a href="https://codesandbox.com/jaygandhi129" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codesandbox-256.png" alt="jaygandhi129" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/jaygandhi129" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-256.png" alt="jaygandhi129" height="40" width="40" /></a>
-<a href="https://discord.gg/9028" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-256.png" alt="9028" height="40" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaygandhi129&label=Profile%20views&color=52bc56&style=plastic" alt="jaygandhi129" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<br>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaygandhi129&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="jaygandhi129" /></p>
+---
+
+### 🧠 About Me
+
+- 🎓 B.Tech in **Computer Science and Engineering**
+- 🛠️ Passionate about leveraging technology to solve real-world challenges and drive meaningful impact
+- 💻 Check out my work: [My GitHub Repos »](https://github.com/jaygandhi129?tab=repositories)
+
+---
+
+### 🛠️ Tools & Technologies
+
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a><a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>  </p>
+
+---
+
+### 📚 Published Research
+
+- **Domain Aligned Microservices Decomposition**  
+  _Proceedings of the 18th Innovations in Software Engineering Conference, ACM, 2025_  
+  🔗 [Read Paper](https://dl.acm.org/doi/full/10.1145/3717383.3717396)
+
+---
+
+### 🤝 Connect With Me
+<p align="left"> <a href="https://linkedin.com/in/jaygandhi129" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-512.png" alt="LinkedIn" width="40" height="40"/> </a> <a href="mailto:jaygandhi129+contact@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/> </a> </p>
+
