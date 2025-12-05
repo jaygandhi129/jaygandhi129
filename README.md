@@ -10,6 +10,7 @@
 
 ### 🧠 About Me
 
+- 💼 With **3.5 years of professional experience** tackling complex enterprise challenges and building scalable tools
 - 🎓 B.Tech in **Computer Science and Engineering**
 - 🔭 Currently exploring the world of **Generative AI**, **NLP**, and **Agentic AI**
 - 💡 Utilizing this space to experiment with new technologies and build side projects
