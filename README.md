@@ -36,6 +36,9 @@
 
 - **Domain Aligned Microservices Decomposition** _Proceedings of the 18th Innovations in Software Engineering Conference, ACM, 2025_  
   🔗 [Read Paper](https://dl.acm.org/doi/full/10.1145/3717383.3717396)
+- **Microservices Identification Using LLM** _IEEE/ACM International Conference on Automated Software Engineering, 2025_  
+  🔗 [Read Paper]((https://doi.org/10.1109/ASEW67777.2025.00013))
+  
 
 ---
 
