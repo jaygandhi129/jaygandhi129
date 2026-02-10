@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h2 align="center">I'm Jay Gandhi</h2>
-<h3 align="center">🚀 Research Engineer at TCS Research | 📍Pune, India</h3>
+<h3 align="center">🚀 Software Engineer at TCS Research | 📍Pune, India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaygandhi129&label=Profile%20views&color=52bc56&style=plastic" alt="jaygandhi129" />
